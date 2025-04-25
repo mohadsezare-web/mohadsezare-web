@@ -1,3 +1,9 @@
+Hi, I'm Mahdieh ✨
+Front-end Developer | Dreaming Big | Building with Code 💻
+
+
+
+
 <h1 align="center">Hi there! 👋 I'm Mahdieh</h1>
 
 <p align="center">
