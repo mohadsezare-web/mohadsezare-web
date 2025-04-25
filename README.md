@@ -74,13 +74,6 @@ I'm a passionate **Frontend Developer** based in **Iran**, with a focus on **Rea
 
 ---
 
-## 📚 My Recent Work
-- **[Personal Portfolio Website](https://github.com/mohadsezare-web/portfolio)** - A personal portfolio showcasing my frontend development skills, including React and Next.js.
-- **[E-commerce Website](https://github.com/mohadsezare-web/e-commerce)** - A full-fledged e-commerce platform built with React and Redux, featuring a shopping cart and payment integration.
-- **[To-Do List App](https://github.com/mohadsezare-web/todo-app)** - A simple yet effective to-do app built with React, allowing users to add, delete, and track tasks.
-
----
-
 ## 🌟 GitHub Trophies
 
 <p align="center">
